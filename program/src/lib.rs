@@ -2,7 +2,7 @@ use anchor_lang::prelude::*;
 use std::collections::HashMap;
 
 declare_id!("your_program_id");
-
+ 
 #[program]
 pub mod Manof {
     use super::*;
