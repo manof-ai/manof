@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "AI Agent Framework for Solana Smart Contracts"
 authors = ["Manof Team"]
-
+ 
 [lib]
 crate-type = ["cdylib", "lib"]
 name = "Manof"
