@@ -6,7 +6,6 @@ declare_id!("your_program_id");
 #[program]
 pub mod Manof {
     use super::*;
-
  
     pub fn initialize_agent(
         ctx: Context<InitializeAgent>,
